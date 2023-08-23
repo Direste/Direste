@@ -4,7 +4,7 @@
 
 ![Direste GitHub stats](https://github-readme-stats.vercel.app/api?username=Direste&show_icons=true&theme=dracula)
 
-## Tecnologias que tenho experiencia 
+## Tecnologias que tenho experiência. 
 
 <div style="display: inline_bloack"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
